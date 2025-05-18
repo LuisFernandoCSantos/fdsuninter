@@ -1,0 +1,131 @@
+body {
+    background-image: linear-gradient(to right, rgba(253, 173, 23, 0.603), white);
+    font-family: Arial, sans-serif;
+    padding: 5%;
+}
+
+p{
+    font-size: 30px;
+    color: black;
+    text-align: justify;
+}
+
+.mensagem p{
+    width: 100%;
+    text-align: center;
+}
+
+
+h1{
+    color:rgb(51, 48, 48); text-align: center;
+}
+
+.Hoobies li{
+    font-size: 20px;
+}
+
+.Hoobies h2{
+    text-align: center;
+    font-size: 30px;
+}
+
+.hoobiesImagem{
+    margin: 20px;
+    border-radius: 10px;
+
+}
+
+.Lista{
+    width: 20%;
+    border-style: solid;
+    border-width: 1px;
+    border-color: black;
+}
+
+.IMAGEM{
+    padding: 5%;
+    text-align: auto;
+}
+
+#jogando{
+    width: 450px;
+}
+
+#pilotar{
+    width: 450px;
+    height: 300px;
+}
+
+#sinuca{
+    width: 450px;
+    
+}
+    
+
+.Paises img {
+    width: 300px;
+    border-radius: 20px;
+}
+
+.EUA{
+    height: 170px;
+}
+
+h2{
+    color:black;
+    text-align: center;
+    
+}
+
+table{
+    width: 50%;
+    margin-top:10px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+table, th, td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+}
+
+.link{
+    text-align: center;
+}
+
+a:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+.Alanzoka{
+    color: blue;
+    text-decoration: none;
+
+}
+
+.botao{
+    text-align: center;
+
+}
+
+button{
+    border-radius: 15px;
+    background-color: yellow;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+
+button:hover{
+    box-shadow: 0 12px 16px 0 
+    rgb(0,0,0,0.24),0 17px 50px 0
+    rgb(0,0,0,0.19);
+}
